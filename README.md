@@ -1,5 +1,8 @@
 # bdq-dataset
 
+This repository includes both the original KTH dataset and the code used to generate the slowed datasets. In order to change the scale of playback for the videos, you can add or remove values from the list SCALES_TO_PROCESS.
+Before starting to generate the dataset, make sure the script can resolve the path to the original dataset.
+
 Kaggle link to the dataset: https://www.kaggle.com/datasets/ciprianbica/kth-slowed
 
 The KTH dataset was originally published in this paper:
